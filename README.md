@@ -1,3 +1,6 @@
+[![Python application test with Github Actions](https://github.com/raipragya/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/raipragya/scaffold/actions/workflows/main.yml)
+         
+         
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
